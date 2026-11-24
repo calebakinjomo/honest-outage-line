@@ -2,6 +2,8 @@
 """The Most Honest Outage Line — make.fun bounty u-mgwals-the-most-honest-outage-line-baaf9c81.
 
 Prints the entry line and writes exactly that line to $MAKEFUN_OUTPUT_DIR/entry.txt.
+The line admits the outage plainly: every server is unreachable, so no cause
+and no ETA can be offered — only a promise to update when there is news.
 """
 
 import os
